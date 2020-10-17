@@ -32,10 +32,10 @@ That was the first transaction sent on this blockchain network.
 
 Included are some of the screenshots of MyCrypto wallet and Ganache:
 
-![Ganache ETH](Images/bip39-btc-testnet.png)
+![Ganache ETH](Ganache_account.png)
 
-![MyCrypto wallet](Images/bip39-derived.png)
+![MyCrypto wallet](MyCrypto_wallet.png)
 
-![Ganache transactions](Images/bip39-btc-testnet.png)
+![Ganache transactions](Ganache_transactions.png)
 
 
