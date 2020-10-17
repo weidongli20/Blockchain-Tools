@@ -2,7 +2,7 @@
 
 Screenshots of connecting MyCrypto to custom chain of Ganache, importing the pre-funded wallet, and sending test transactions.
 
-* First, get the private key of the pre-funded address using Ganache(downloaded from 'https://www.trufflesuite.com/ganache')
+* First, get the private key of the pre-funded address using Ganache (installed and downloaded from 'https://www.trufflesuite.com/ganache')
 
 * Open up MyCrypto, then click `Change Network` at the bottom left
 
