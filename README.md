@@ -10,7 +10,7 @@ Screenshots of connecting MyCrypto to custom chain of Ganache, importing the pre
 
 * Once you save and use the network, double-check that it is selected and is connected.
 
-Now that you are connected to your blockchain, you will need to load a private key that you created and funded on the network.
+Now that you are connected to your blockchain, you will need to load a private key that you created and funded in Ganache.
 
 * On the left pane menu of MyCrypto, click on "View & Send".
 
@@ -18,7 +18,7 @@ Now that you are connected to your blockchain, you will need to load a private k
 
 * A new window will pop-up, paste the private key of the pre-fund wallet and click on the "Unlock" button to continue.
 
-* This is the balance that was pre-funded for this account in Ganache; however, these millions of ETH tokens are just for testing purposes.
+* This is the balance that was pre-funded for this account in Ganache; however, these ETH tokens are just for testing purposes.
 
 Now we're going to send a transaction to ourselves to test it out. Follow the next steps.
 
