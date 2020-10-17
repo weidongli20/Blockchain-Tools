@@ -30,7 +30,7 @@ Now we're going to send a transaction to ourselves to test it out. Follow the ne
 
 That was the first transaction sent on this blockchain network. 
 
-Included are some of the screenshots of MyCrypto wallet and Ganache:
+Included below are some of the screenshots of MyCrypto wallet and Ganache:
 
 ![Ganache ETH](Ganache_account.png)
 
